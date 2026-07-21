@@ -105,7 +105,3 @@ The token is taken from the first source that has one:
   clears take a while — that's expected.
 - Automating actions on a user account is against Discord's Terms of Service.
   This only ever touches your own messages, but the account risk is yours.
-
-## License
-
-See [LICENSE](LICENSE).
